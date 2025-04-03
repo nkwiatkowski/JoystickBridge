@@ -1,0 +1,32 @@
+# Rider project files
+.idea/
+*.sln.iml
+
+# Build output
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider settings
+.idea/
+*.sln.ide
+
+# VSCode files (just in case)
+.vscode/
+
+# System files
+Thumbs.db
+ehthumbs.db
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+
+# Logs / local data
+*.log
+*.tmp
+
+# Configs (optional, ignore if personal)
+config
