@@ -48,7 +48,7 @@ Place a `config.json` file next to the `.exe`:
 
 ```json
 {
-  "ip": "172.23.172.215", // Your Shadow PC's IP
+  "ip": "100.230.100.100", // Your Shadow PC's IP
   "port": 25555,
   "frequency": 60         // Polling frequency ms
 }
