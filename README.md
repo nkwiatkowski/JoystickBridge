@@ -50,5 +50,5 @@ Place a `config.json` file next to the `.exe`:
 {
   "ip": "172.23.172.215", // Your Shadow PC's IP
   "port": 25555,
-  "frequency": 60         // Polling frequency in Hz
+  "frequency": 60         // Polling frequency ms
 }
